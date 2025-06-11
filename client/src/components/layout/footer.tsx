@@ -20,8 +20,8 @@ const Footer = () => {
                 <div className="w-8 h-8 rounded-md bg-[#0a2c5a]/10 flex items-center justify-center mr-3 transition-all group-hover:bg-[#0a2c5a]/20">
                   <Mail className="text-[#0a2c5a]" size={16} />
                 </div>
-                <a href="mailto:mittal21jiya@gmail.com" className="text-[#0a2c5a] text-opacity-90 hover:text-opacity-100 transition-all">
-                  mittal21jiya@gmail.com
+                <a href="mailto:teams@privacyweave.in" className="text-[#0a2c5a] text-opacity-90 hover:text-opacity-100 transition-all">
+                  teams@privacyweave.in
                 </a>
               </div>
               <div className="flex items-center group">
@@ -48,7 +48,7 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          
+
           <div>
             <h3 className="text-lg font-bold mb-6">Solutions</h3>
             <ul className="space-y-4">
@@ -59,7 +59,7 @@ const Footer = () => {
               <li><a href="#" className="text-[#0a2c5a] text-opacity-80 hover:text-opacity-100 transition-colors">Privacy Analytics</a></li>
             </ul>
           </div>
-          
+
           <div>
             <h3 className="text-lg font-bold mb-6">Resources</h3>
             <ul className="space-y-4">
@@ -70,7 +70,7 @@ const Footer = () => {
               <li><a href="#" className="text-[#0a2c5a] text-opacity-80 hover:text-opacity-100 transition-colors">Documentation</a></li>
             </ul>
           </div>
-          
+
           <div>
             <h3 className="text-lg font-bold mb-6">Company</h3>
             <ul className="space-y-4">
@@ -82,11 +82,11 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        
+
         <div className="relative my-12">
           <div className="absolute left-0 right-0 h-px bg-[#0a2c5a]/20"></div>
         </div>
-        
+
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <p className="text-[#0a2c5a]/70 text-sm font-light">© 2025 PrivacyWeave. All rights reserved.</p>
